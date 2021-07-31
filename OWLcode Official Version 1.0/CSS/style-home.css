@@ -1,0 +1,500 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.navbar {
+    background-color: #e3e5e8;
+    padding: 1% 2%;
+    font-size: 18px;
+}
+.navbar-brand {
+    min-height: 60px;
+    padding: 5px 15px 5px;
+}
+.navbar-nav .nav-item .nav-link{
+    color: #565E63;
+}
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: #003366 !important;
+}
+.dropdown-menu .dropdown-item:hover{
+    background-color: rgb(0,0,0,0.2);
+}
+.dropdown-menu .dropdown-item.active{
+    background-color: rgb(0,0,0,0.8);
+}
+.btn.btn-dark{
+    background-color: #1E2326;
+}
+.btn.btn-dark:hover{
+    background-color: #003366;
+}
+.ratesys-cont {
+    height: 45px; 
+    padding: 10px;
+    padding-bottom: 15px;
+    background-color: rgba(200,200,200,0.5);
+    color:black;
+}
+.ratesys-cont .fa-star {
+    font-size: 25px;
+    padding: 0px;
+}
+#home {
+    background: url(../images/coding_wallpaper.jpeg) no-repeat center center fixed;
+    display: table;
+    height: 70%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
+.landing {
+    color: white;
+    text-shadow: 3px 3px 6px #000;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    box-shadow: 
+        inset 0px 20px 15px -20px rgba(0,0,0,0.8), 
+        inset 0px -20px 15px -20px rgba(0,0,0,0.8);
+}
+.landing h1{
+    font-weight: 750;
+    font-size: 300%;
+}
+.landing h3{
+    font-weight: 400;
+    font-size: 150%;
+}
+.landing-text .landingtextbg{
+    width: 100%;
+    background: rgba(0, 0, 0, 0.85);
+    padding: 20px 0;
+}
+.landing .container-fluid{
+    position: absolute;
+    margin-top: 90px;
+}
+.landing-arrow img{
+    height: 100px;
+}
+.padding{
+    padding: 30px 0;
+}
+.padding.searchBar{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: #1E2326;
+}
+.padding.aboutSec{
+    background-color: #eff2f5;
+    box-shadow: 
+        0px 5px 10px 0px rgba(0,0,0,0.5);
+}
+.padding.aboutSec h2{
+    margin: 40px;
+}
+.topics-container {
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 30px;
+    margin-bottom: 0px;
+}
+.padding.topicsSec {
+    background-color: #fff;
+}
+.padding.topicsSec .container-fluid h2{
+    margin: 40px;
+}
+.topics-container .topicsButton {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0);
+    border: 1px solid;
+    border-radius: 0px;
+    border-color: rgba(0,0,0,0.3);
+    margin: 0;
+    padding: 10px;
+    text-decoration: none;
+    color: #1e2326;
+    transition-timing-function:ease-out;
+}
+.topics-container .topicsButton h3{
+    padding: 5px;
+}
+.topics-container .topicsButton p{
+    padding: 5px;
+    text-align: left;
+}
+.topics-container .topicsButton h6{
+    display: block;
+    color: dodgerblue;
+    padding: 5px;
+}
+.topics-container .topicsButton:hover h6{
+    color: #fff;
+    transition: 0.5s;
+}
+.topics-container .topicsButton:hover {
+    display: block;
+    background-color: #003366;
+    transform: scale(1.05);
+    /*border: 5px solid;
+    border-radius: 0px;
+    border-color: rgba(0,0,0,0);*/
+    padding: 10px;
+    margin: 0;
+    text-decoration: none;
+    color: #fff;
+    transition: 0.5s ease-out;
+}
+.padding.questionSec {
+    width: 100%;
+    background-color: #eff2f5;
+
+}
+.question-cont {
+    width: 100%;
+    font-size: 22px;
+}
+.logo{
+    width: 100%;
+    max-width: 350px;
+}
+footer {
+    width: 100%;
+    padding: 5% 5% 5% 5%;
+    background-color: #1E2326;
+    color: white;
+}
+.questionProg {
+    margin-left: auto;
+    margin-right: auto;
+    width:300px;
+    padding: 10px;
+    background-color: rgba(200,200,200,0.4);
+    border: 1px solid #1e2326;
+}
+.fa {
+    padding: 10px;
+    font-size: 25px;
+    color: #FFF;
+}
+.fab {
+    padding: 10px;
+    font-size: 25px;
+    color: #FFF;
+}
+.padding.searchBar .form-control{
+    height: 30px;
+    width: 33%;
+}
+.padding.searchBar .btn.btn-light{
+    height: 30px;
+    font-size: 80%;
+    font-weight: bold;
+}.padding.searchBar .btn.btn-danger{
+    height: 30px;
+    font-size: 80%;
+    font-weight: bold;
+}
+.info {
+    line-height: 5px;
+}
+footer .info-title{
+    transform: scale(1.1);
+    padding-bottom: 10px;
+}
+.account {
+    display: table;
+    width: 100%;
+    height: auto;
+    background-color: #e3e5e8;
+}
+.account-rect {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e3e5e8;
+    box-shadow: 
+        0px 0px 20px 2px rgba(30, 35, 38, 0.6);
+}
+.account-tabs {
+    display: block;
+    width: 30%;
+    margin: 0;
+    background-color: #1E2326;
+    box-shadow: inset -12px 0px 15px -13px rgba(0,0,0,0.8);
+}
+.account-img-cont {
+    display: block;
+    position: absolute;
+    width: 30%;
+    height: 120px;
+    margin-top: -60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.account-img {
+    display: block;
+    width: 120px;
+    height: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #1E2326;
+    padding: 10px;
+    text-align: center;
+}
+.account-img-user {
+    display: block;
+    font-size: 100px;
+    color: white;
+}
+.account-tabs-text-cont {
+    display: block;
+    width: 80%;
+    height: 100%;
+    padding-top: 100px;
+    margin-left: auto;
+    padding-bottom: 100px;
+    color: #e3e5e8;
+}
+.account-tabs-text-cont .button {
+    display: block;
+    border: none;
+    width: 100%;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0;
+    text-decoration: none;
+    text-align: left;
+    background-color: rgba(0,0,0,0);
+    color: #e3e5e8;
+    outline: none;
+    border-radius: 0;
+}
+.account-tabs-text-cont a:hover {
+    border: none;
+    background-color: rgb(255,255,255,0.5);
+    color: #1E2326;
+    transition: 0.4s;
+    border-radius: 0;
+    outline: none;
+}
+.account-tabs-text-cont .button.active {
+    display: block;
+    border: none;
+    width: 100%;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0;
+    text-decoration: none;
+    text-align: left;
+    background-color: #e3e5e8;
+    color: #1E2326;
+    box-shadow: 0px 0px 2px 0px #e3e5e8;
+    outline: none;
+    border-radius: 0;
+}
+.account-info {
+    display: block;
+    width:70%;
+    padding: 30px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    margin-left: auto; 
+    background-color: #e3e5e8;
+}
+.account-info-content h3 {
+    margin-top: 10px;
+    line-height: 10px;
+}
+.account-info-content small {
+    color: gray;
+}
+.divide-line {
+    display: block;
+    background-color: #003366;
+    margin-top: 5px;
+    width: 100%;
+    height: 3px;
+}
+.account-info-content a{
+    text-decoration: underline;
+}
+
+.account-info-content .form-control {
+    width: 150px;
+    margin-right: 5px;
+    display: inline;
+}
+.account-info-content .form-control.changePass {
+    width: 250px;
+    display: block;
+    margin-bottom: 5px;
+}
+.account-info-content .btn-danger {
+    margin-bottom: 2px;
+}
+.error-cont{
+    background-color: rgb(250,130,130,0.2);
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 1px red;
+    margin-top: 15px;
+    padding: 10px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+.error{
+    color: red;
+}
+
+.success-cont{
+    background-color: rgb(130,255,130,0.2);
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 1px green;
+    margin-top: 15px;
+    padding: 10px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+.success{
+    color: green;
+}
+.col-sm-12.successDelete {
+    text-align: center;
+    background-color: lightgreen;
+    color: black;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: -10px;
+}
+.col-sm-12.successDelete p {
+    margin-right: 5px;
+    display: inline;
+}
+.btn.toggleChange{
+    padding: 0;
+    margin: 0;
+    color: dodgerblue;
+    text-decoration: underline;
+}
+.btn.toggleChange:hover {
+    color: royalblue;
+}
+.lead {
+    text-align: justify;
+}
+.lead-icon-cont {
+    width: 100%;
+    height: 60px;
+    margin-top: -5px;
+    color: black;
+}
+.lead-icon {
+    height: 100%;
+}
+
+
+@viewport{
+    zoom: 1.0;
+    width: extend-to-zoom;
+}
+@media (max-width: 768px){
+    .padding.aboutSec .col-sm-6 {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .topics-container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .landing h1{
+        font-size: 200%;
+    }
+    .fa{
+        font-size: 30px;
+    }
+    .fab{
+        font-size: 30px;
+    }
+    .logo{
+        width: 100%;
+        max-width: 300px;
+    }
+    .landing h3{
+        font-weight: 400;
+        font-size: 100%;
+    }
+    footer h4{
+        font-size: 150%;
+    }
+    footer .col-sm-6 h3{
+        padding-top: 10px;
+        font-size: 200%;
+    }
+    .padding.searchBar .form-control{
+        width: 60%;
+    }
+}
+@media (max-width: 575px) {
+    .account-info {
+        display: block;
+        width: 100%;
+        padding: 30px;
+        padding-bottom: 50px;
+        background-color: #e3e5e8;
+    }
+    .account-tabs {
+        display: block;
+        width: 100%;
+        background-color: #1E2326;
+        box-shadow: inset -12px 0px 15px -13px rgba(0,0,0,0.8);
+    }
+    .account-tabs-text-cont {
+        display: block;
+        width: 100%;
+        height: 100%;
+        padding-top: 100px;
+        text-align: center;
+        padding-bottom: 0px;
+        color: #e3e5e8;
+    }
+    .account-tabs-text-cont .button {
+        display: block;
+        border: none;
+        width: 100%;
+        padding: 5px;
+        margin: 0;
+        text-decoration: none;
+        text-align: center;
+        background-color: rgba(0,0,0,0);
+        color: #e3e5e8;
+        outline: none;
+        border-radius: 0;
+    }
+    .account-tabs-text-cont .button.active {
+        text-align: center;
+    }
+    .account-img-cont {
+        display: block;
+        position: absolute;
+        width: 100%;
+        height: 120px;
+        margin-top: -60px;
+    }
+    .changePass-cont .btn.btn-primary {
+        width: 100%;
+    }
+    .account-info-content .form-control.changePass {
+        width: 100%;
+    }
+}
