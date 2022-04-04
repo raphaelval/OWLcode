@@ -47,6 +47,7 @@
       </ul>  
     </li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#owlcode-team">OWLcode Team</a></li>
   </ol>
 </details>
 
@@ -289,14 +290,16 @@ Project Link: [https://github.com/raphaelval/OWLcode](https://github.com/raphael
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## Acknowledgments
+<!-- Team -->
+## OWLcode Team
 
-* []()
-* []()
-* []()
+* Raphael Valente (Lead Software Developer/Project Manager)
+* Tanis Anderson (Software Developer)
+* Eric Thach (Software Developer)
+* Patryk Wysocki (Software Developer)
+* Bellinda Lominy (Software Developer)
 
-<p align="right">(<a href="#top">back to top</a>)</p> -->
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
