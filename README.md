@@ -10,7 +10,7 @@
 <div align="center">
   
   <a href="https://github.com/raphaelval/OWLcode">
-    <img src="images/OWLcode_icon_white_shadow.png" alt="Logo" width="20%">
+    <img src="images/OWLcode_icon_white_shadow.png" alt="Logo" width="25%">
   </a> 
 
 <h2 align="center">OWLcode</h2>
