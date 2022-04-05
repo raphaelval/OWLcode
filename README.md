@@ -10,7 +10,7 @@
 <div align="center">
   
   <a href="https://github.com/raphaelval/OWLcode">
-    <img src="images/OWLcode_icon_white_shadow.png" alt="Logo" width="150" height="150">
+    <img src="images/OWLcode_icon_white_shadow.png" alt="Logo" width="20%">
   </a> 
 
 <h2 align="center">OWLcode</h2>
@@ -59,7 +59,7 @@
 <p>OWLcode is a web application that would be useful to Computer, Electrical Engineering and Computer Science (CEECS) students to access information and start learning how to code. It would also provide users a personalized profile based on their needs and interests. We were able to provide a secure sign up and login system, a topic questionnaire, and information about different programming languages. A user can create a personalized profile, use a questionnaire that suggests topics based on their interests, and view information and videos to start learning how to program.</p>
 <br />
 <div align="center">
-<img src="images/main-gif.gif" alt="Logo" height="300">
+<img src="images/main-gif.gif" alt="Home Page Scroll" width="80%">
 </div>
 <br />
 
@@ -82,7 +82,7 @@
 ### Responsive
 <br />
 <div align="center">
-<img src="images/responsive.png" alt="Logo" height="150">
+<img src="images/responsive.png" alt="Responsive Page Views" width="80%">
 </div>
 <br />
 <p>By utilizing Bootstrap's Grid and Navigation Bar, this allowed us to be more mobile friendly to any screen size. With the custom layout of our website, we had to test various screen sizes to implement CSS media screen sizing.</p>
@@ -97,7 +97,7 @@
   <summary>Navigation Bar</summary>
 <br />
 <div align="center">
-<img src="images/nav.png" alt="Logo" height="30">
+<img src="images/nav.png" alt="Navigation Bar" width="80%">
 </div>
 <br />
 <p>We developed the navigation bar to include everything needed for complete funcitonality of the website. The logo is placed on the left and is used as the home button. The menu options are placed in the middle and all account functionality is placed on the right.</p>
@@ -107,7 +107,7 @@
   <summary>Search</summary>
 <br />
 <div align="center">
-<img src="images/search.png" alt="Logo" height="30">
+<img src="images/search.png" alt="Navigation bar with Search" width="80%">
 </div>
 <br />
 <p>The search functionality is placed at the top for users to quickly find what they are looking for. The input value is taken and will output results on another page based on matching keywords for the topics.</p>
@@ -117,7 +117,7 @@
   <summary>About</summary>
 <br />
 <div align="center">
-<img src="images/about.png" alt="Logo" height="250">
+<img src="images/about.png" alt="About Section" width="80%">
 </div>
 <br />
 <p>The about section gives the user a feel of who we are and information about the goal of the website. By having a header placed as the majority of the screen, it welcomes the user without loading them with too much information. This gives the user a chance to explore around the website to learn more.</p>
@@ -127,7 +127,7 @@
   <summary>Quick Links</summary>
 <br />
 <div align="center">
-<img src="images/quicklinks.png" alt="Logo" height="150">
+<img src="images/quicklinks.png" alt="Quick Links Section" width="80%">
 </div>
 <br />
 <p>The quick links section gives the user access to our main content with small descriptions. Instead of having to navigate back up to the navigation bar, we provide links if they are interested to start learning right away. The questionnaire is also located there if the user is not sure of where to start in their programming journey</p>
@@ -137,7 +137,7 @@
   <summary>Contact</summary>
 <br />
 <div align="center">
-<img src="images/contact.png" alt="Logo" height="80">
+<img src="images/contact.png" alt="Contact Section" width="80%">
 </div>
 <br />
 <p>Our contact information is placed in the footer of every page so users can contact us with any questions. Social media links are also included to learn more about us and for any updates.</p>
@@ -149,7 +149,7 @@
 
 <br />
 <div align="center">
-<img src="images/signuplogin.png" alt="Logo" height="200">
+<img src="images/signuplogin.png" alt="Sign up and Login" width="80%">
 </div>
 <br />
 
@@ -157,14 +157,14 @@
 
 <br />
 <div align="center">
-<img src="images/errorcheck.gif" alt="Logo" height="200">
+<img src="images/errorcheck.gif" alt="Error checking" width="80%">
 </div>
 <br />
 
 <p>During error checking, we check for duplicate usernames and emails, minimum characters for username and password, special characters in username, atleast one number in password, and atleast one capital letter in password.</p>
 <br />
 <div align="center">
-<img src="images/encryption.png" alt="Logo" height="50">
+<img src="images/encryption.png" alt="Password Encryption" width="80%">
 </div>
 <br />
 
@@ -178,14 +178,14 @@
 
 <br />
 <div align="center">
-<img src="images/changePassDemo.gif" alt="Logo" height="200">
+<img src="images/changePassDemo.gif" alt="Changing password" width="80%">
 </div>
 <br />
 
 <p>To change the password, for security purposes, the user must enter their current password in order to create a new password.</p>
 <br />
 <div align="center">
-<img src="images/delete.gif" alt="Logo" height="150">
+<img src="images/delete.gif" alt="Deleting Account" width="80%">
 </div>
 <br />
 <p>To delete the user account, the user must enter the case-sensitive word 'DELETE' to prevent any deletion mistakes.</p>
@@ -195,7 +195,7 @@
 ### Main Content
 <br />
 <div align="center">
-<img src="images/maincont.gif" alt="Logo" height="200">
+<img src="images/maincont.gif" alt="Main Content Scroll" width="80%">
 </div>
 <br />
 <p>For the main content of the web application, we chose topics such as HTML & CSS, Python, JavaScript, and C++. Each page includes an intro, information, and outro section.</p>
@@ -239,18 +239,18 @@
 <details>
 <summary>UI</summary>
 <div align="center">
-<img src="images/diagrams/ui.png" alt="Logo" height="400">
+<img src="images/diagrams/ui.png" alt="UI Diagram" width="80%">
 </div>
 </details>
 
 <details>
 <summary>Use-Case</summary>
 <div align="center">
-<img src="images/diagrams/usecase1.png" alt="Logo" height="250">
+<img src="images/diagrams/usecase1.png" alt="Use-Case Diagram 1" width="80%">
 </div>
 <p>A visual representation of how a user interacts with the sign up and login and how it directs them to the questionnaire. There are tasks that are executed by the system such as password encryption, password verification, and login errors.</p>
 <div align="center">
-<img src="images/diagrams/usecase2.png" alt="Logo" height="250">
+<img src="images/diagrams/usecase2.png" alt="Use-Case Diagram 2" width="80%">
 </div>
 <p>A visual representation of how a user interacts with the topics feature of the web app. Once a user is signed up, they can browse and have access to all their topics. Other features are displayed in which a user can choose to do such as rate, print content, and view videos.</p>
 </details>
@@ -259,14 +259,14 @@
 <summary>Sequence</summary>
 
 <div align="center">
-<img src="images/diagrams/sequence.png" alt="Logo" height="300">
+<img src="images/diagrams/sequence.png" alt="Sequence Diagram" width="80%">
 </div>
 </details>
 
 <details>
 <summary>Activity</summary>
 <div align="center">
-<img src="images/diagrams/activity.png" alt="Logo" height="400">
+<img src="images/diagrams/activity.png" alt="Activity Diagram" width="80%">
 </div>
 
 </details>
@@ -274,7 +274,7 @@
 <details>
 <summary>Database</summary>
 <div align="center">
-<img src="images/diagrams/database.png" alt="Logo" height="300">
+<img src="images/diagrams/database.png" alt="Database Diagram" width="80%">
 </div>
 
 </details>
